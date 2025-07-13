@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to HYPERLINK CONNECTIONS!" />
-    <h1>Hyperlink Connetion</h>
+         <h1>Hyperlink Connetion</h>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
