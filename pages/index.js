@@ -22,7 +22,7 @@ export default function Home() {
   
        {/* Example: Display your image */}
         <Image
-          src="/images/noma.jpg" // Change to your image file name
+          src="puplic/images/noma.jpg" // Change to your image file name
           alt="Logo"
           width={200}
           height={200}
