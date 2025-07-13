@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <p><h1>Hyperlink Best Connections</h></p>
+        <p><h1>Hyperlink Best Connections</h1></p>
       </main>
 
       <Footer />
